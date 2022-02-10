@@ -38,7 +38,7 @@ class TestClass implements TestInterface {
 
 }
 
-public class MyMethodRef {
+public class MyMethodReference {
 
 	public static void main(String args[]) {
 		TestClass testClass = new TestClass();

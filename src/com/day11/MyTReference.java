@@ -38,7 +38,7 @@ class TestThread extends Thread {
 
 }
 
-public class MyTRef {
+public class MyTReference {
 
 	public static void main(String args[]) {
 		TestThread T1 = new TestThread();
